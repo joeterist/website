@@ -10,15 +10,42 @@ header {
     padding: 10px;
 }
 
+.tips-bar {
+    text-align: center;
+}
+
 .section-1 {
     background-color: #4F382A;
-    padding: 100px;
+    margin: auto;
     display: flex;
 }
 
-.options {
-    list-style-type: none;
+.logo {
+    margin: auto;
+    padding: 50px;
 }
+
+#options-container {
+    padding: 50px;
+}
+
+.options div{
+    color: black;
+    background-color: blanchedalmond;
+    margin: 10px;
+    padding: 50px;
+}
+
+.option-upper {
+    display: inline-block;
+}
+
+.option-lower {
+    display: inline-block;
+    margin-right: 100px;
+}
+
+
 
 .section-2 {
     color: black;
@@ -28,7 +55,7 @@ header {
 
 footer {
     background-color: #868E94;
-    margin-bottom: 0px;
+    margin-bottom: 0;
     padding: 10px;
 }
 
