@@ -1,2 +1,2 @@
 # Informal Studio
-## The studio's official page.
+*The studio's official page.
