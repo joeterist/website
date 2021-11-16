@@ -1,1 +1,2 @@
-# Hello bro
+# Informal Studio
+## The studio's official page.
